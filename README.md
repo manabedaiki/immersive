@@ -12,6 +12,8 @@ Windows で動作中のアプリケーションからタイトルバーを削除
 build.bat
 ```
 
+または、[リリースページからビルド済みバイナリを取得](https://github.com/manabedaiki/immersive/releases/download/release%2F1.0/immersive.exe)
+
 ## 使い方
 
 アプリケーションを起動した状態で *immersive.exe* を実行します。
